@@ -1,6 +1,6 @@
 - 👋 Hi, here is my language learning very simple app: https://learn-english-and-deutsch.vercel.app/
-- 
 - 👀 My Resume: anthonyzet.github.io/mycv/
+- 
 - 🌱 Simple webpage in React: https://react-remeslnik.vercel.app/
 - 💞️ Simple webpage: https://remeslnik.vercel.app/
 - 📫 Simple page Bootstrap: https://anthonyzet.github.io/Bootstrap-simple-page/
