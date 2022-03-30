@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Antonin Zejda
-- https://learn-english-and-deutsch.vercel.app/
-- 👀 I’m interested in static websites and simple web applications
+- 👋 Hi, here is my language learning very simple app: https://learn-english-and-deutsch.vercel.app/
+- 
+- 👀 My Resume: anthonyzet.github.io/mycv/#
 - 🌱 I’m currently learning JavaScript jQuery Node.js Express React Gatsby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
