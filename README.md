@@ -5,6 +5,12 @@
 - 💞️ Simple webpage: https://remeslnik.vercel.app/
 - 📫 Simple page Bootstrap: https://anthonyzet.github.io/Bootstrap-simple-page/
 
+Projects under construction...
+- Languages learning app slowly (very) to React
+- 👀 https://react-languages-l8dtum96t-anthonyzet.vercel.app/
+
+- Next.js resumé
+
 
 
 <!---
