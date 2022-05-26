@@ -10,7 +10,7 @@ Projects under construction...
 - 👀 https://react-languages-l8dtum96t-anthonyzet.vercel.app/
 
 - Next.js resumé
-
+- 👀 https://next-js-resume-six.vercel.app/
 
 
 <!---
