@@ -7,7 +7,7 @@
 
 Projects under construction...
 - Languages learning app slowly (very) to React
-- 👀 https://react-languages-l8dtum96t-anthonyzet.vercel.app/
+- 👀 https://react-languages.vercel.app/
 
 - Next.js resumé
 - 👀 https://next-js-resume-six.vercel.app/
