@@ -1,3 +1,6 @@
+- 👀 React Tailwind Learn Languages https://languages-tailwind.vercel.app/
+- 👀 React Bootstrap Learn Languages https://react-languages.vercel.app/
+
 - 👋 Language learning very simple app: https://learn-english-and-deutsch.vercel.app/
 - 👀 My Resume-React 2022 https://resume-one-rosy.vercel.app   
 - 👀 My Resume 2021: https://anthonyzet.github.io/MyCV/#
@@ -5,9 +8,6 @@
 - 💞️ Simple webpage: https://remeslnik.vercel.app/
 - 📫 Simple page Bootstrap: https://anthonyzet.github.io/Bootstrap-simple-page/
 
-Projects under construction...
-- Languages learning app slowly (very) to React
-- 👀 https://react-languages.vercel.app/
 
 - Next.js resumé
 - 👀 https://next-js-resume-six.vercel.app/
